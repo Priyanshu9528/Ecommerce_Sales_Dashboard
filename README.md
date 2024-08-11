@@ -46,4 +46,3 @@ You can interact with the live Power BI dashboard using the following link: [Eco
 ## Conclusion
 This Ecommerce Sales Dashboard serves as a powerful tool for analyzing key sales metrics and trends, offering a comprehensive view of business performance across different dimensions. 
 
-Feel free to interact with the dashboard and customize it according to your specific business needs!
