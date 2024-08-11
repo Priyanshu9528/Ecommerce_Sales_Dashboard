@@ -17,6 +17,7 @@ The **Ecommerce Sales Dashboard** is a comprehensive and interactive Power BI da
    - Another dataset that may contain additional details or metadata associated with the orders.
 
 4. **Ecommerce Sales Dashboard Report.png**:
+   - ![Ecommerce Sales Dashboard Report.png](https://github.com/Priyanshu9528/Ecommerce_Sales_Dashboard/blob/main/Ecommerce%20Sales%20Dashboard%20Report.png)
    - An image snapshot of the Ecommerce Sales Dashboard. It provides a visual representation of the key metrics and visualizations used in the dashboard.
 
 ### Key Features of the Dashboard
